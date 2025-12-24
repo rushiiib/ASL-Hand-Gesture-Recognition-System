@@ -1,0 +1,20 @@
+# TensorFlow (choose one)
+# For macOS M1/M2 users:
+
+tensorflow-macos==2.16.2
+tensorflow-metal==1.1.0
+
+# For Windows/Linux users (comment out the two above, uncomment below):
+# tensorflow==2.16.2
+
+
+# Shared dependencies
+
+keras==3.12.0
+opencv-python==4.7.0.72
+mediapipe==0.10.14
+cvzone==1.5.6
+numpy==1.26.4
+scikit-learn==1.7.2
+matplotlib==3.10.7
+pillow==12.0.0
