@@ -46,8 +46,8 @@ Hand-Gesture-Recognition-System-for-ASL-Alphabet/
 |-- test_accuracy.py
 |-- requirements.txt
 |-- converted_keras/
-|   |-- keras_model.h5
-|   |-- labels.txt
+   |-- keras_model.h5
+   |-- labels.txt
 ```
 
 ## Getting Started (VS Code setup)
